@@ -11,7 +11,7 @@ import VideoList from "./components/video_list";
 //import video details
 import VideoDetail from "./components/video_detail";
 //declare variable to hold Youtube API key
-const API_KEY = "AIzaSyAoyhBsPCbyeaLOIUOg2UUSuk-UyjfBCPg";
+const API_KEY = "";
 
 // create new component CLASS. It should produce some HTML
 class App extends Component {
